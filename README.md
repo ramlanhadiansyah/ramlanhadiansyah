@@ -1,16 +1,23 @@
-## Hi there 👋
+### Ramlan Hadiansyah
 
-<!--
-**ramlanhadiansyah/ramlanhadiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & CEO, **PT Netlink Labs Global**
+Property Broker, 13+ years — Griya Indonesia Real Estate
 
-Here are some ideas to get you started:
+Building **Netlink**, a digital identity and payments ecosystem on Polygon — combining a bio link and CV builder with an embedded crypto wallet (Netlink Pay) and the NET utility token.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Focus areas**
+- Product architecture and full-stack development
+- Web3 wallet infrastructure (Sequence WaaS, Polygon PoS)
+- Digital identity platforms
+
+**Ecosystem**
+- 🌐 [netlinktoken.com](https://netlinktoken.com)
+- 💻 [netlink-bio](https://github.com/netlinklabs/netlink-bio) — digital identity platform
+- 🪙 [netlink-token](https://github.com/netlinklabs/netlink-token) — NET token repository
+- 📄 [Docs](https://docs.netlinktoken.com)
+
+**Connect**
+- LinkedIn: [in/ramlanhadiansyah](https://linkedin.com/in/ramlanhadiansyah)
+- Email: ramlan.hadiansyah@gmail.com
