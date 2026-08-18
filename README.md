@@ -1,9 +1,8 @@
 ### Ramlan Hadiansyah
 
-Founder & CEO, **PT Netlink Labs Global**
-Property Broker, 13+ years — Griya Indonesia Real Estate
+Founder & CEO, **PT Netlink Labs Global** — building **Netlink**, a digital identity and payments ecosystem on Polygon that combines a bio link and CV builder with an embedded crypto wallet (Netlink Pay) and the NET utility token.
 
-Building **Netlink**, a digital identity and payments ecosystem on Polygon — combining a bio link and CV builder with an embedded crypto wallet (Netlink Pay) and the NET utility token.
+Runs Griya Indonesia Real Estate (13+ years) alongside, funding early-stage development.
 
 ---
 
